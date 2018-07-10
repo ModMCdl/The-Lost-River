@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thelostriver",
+  "name": "The Lost River",
+  "description": "A new magical biome deep underneath the Overworld",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ModMCdl"],
+  "credits": "ModMCdl",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
